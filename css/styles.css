@@ -134,6 +134,10 @@ h1{
     gap: 60px;
 }
 
+.conteneur-section-invisible {
+    display: none;
+}
+
 article h3{
     font-size: 36px;
     font-weight: 300;
